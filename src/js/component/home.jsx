@@ -1,11 +1,10 @@
 import React from "react";
-import TodoList from "./component/TodoList.jsx";
-
+import TodoList from "./TodoList.jsx";
 
 const Home = () => {
 	return (
 		<div>
-
+			<TodoList />
 		</div>
 	);
 };

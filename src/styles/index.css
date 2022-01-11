@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.main{
+    text-align:center;
+}
+.listBody{
+    width:400px;
+    margin:auto;
+}
+.taskInput{
+    width:350px;
+}
